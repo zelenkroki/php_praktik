@@ -41,7 +41,7 @@ if($_POST)
  </form>
 <?php
 }
-
+$db = mysqli_connect('localhost', 'username', 'pass', 'books');
 if (isset($_GET['author_id'])) {
     $author_id = (int) $_GET['author_id'];
     $q = mysqli_query($db, 'SELECT * FROM authors as a LEFT JOIN 
