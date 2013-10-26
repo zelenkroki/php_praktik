@@ -1,0 +1,8 @@
+Error Column count doesn't match value count at row 1
+22 33 Error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '33)' at line 1
+Error Column count doesn't match value count at row 1
+5565 8787 45454 Error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '8787 45454)' at line 1
+Notice: Use of undefined constant msg - assumed 'msg' in E:\xampp\htdocs\HW3\index.php on line 23
+ ErrorUnknown column 'msg' in 'field list'
+  OK
+ 
